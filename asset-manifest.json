@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/MillPointCalc/static/css/main.5e9bcd91.chunk.css",
+    "main.js": "/MillPointCalc/static/js/main.0ef7ebaf.chunk.js",
+    "runtime~main.js": "/MillPointCalc/static/js/runtime~main.a3bc72dc.js",
+    "static/css/2.d1d91f26.chunk.css": "/MillPointCalc/static/css/2.d1d91f26.chunk.css",
+    "static/js/2.0379ab11.chunk.js": "/MillPointCalc/static/js/2.0379ab11.chunk.js",
+    "index.html": "/MillPointCalc/index.html",
+    "precache-manifest.7a27011827bbb6adc1dc88951dcfe78e.js": "/MillPointCalc/precache-manifest.7a27011827bbb6adc1dc88951dcfe78e.js",
+    "service-worker.js": "/MillPointCalc/service-worker.js"
+  }
+}
