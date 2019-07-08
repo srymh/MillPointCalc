@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MillPointCalc/precache-manifest.ecc17dbb82ad1b1ded7ea5a95e43bdf9.js"
+  "/MillPointCalc/precache-manifest.faf2ea15cf356abdae43897183041adc.js"
 );
 
 self.addEventListener('message', (event) => {
