@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e52c52fc1db83f2458d1d9bf815bd345",
+    "revision": "b5644867c49bb1640e0933c97a747389",
     "url": "/MillPointCalc/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MillPointCalc/static/css/2.d1d91f26.chunk.css"
   },
   {
-    "revision": "783f71711de81b1fbef0",
+    "revision": "2f4a01937c2f0a7611e6",
     "url": "/MillPointCalc/static/css/main.5e9bcd91.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MillPointCalc/static/js/2.30bcfea7.chunk.js"
   },
   {
-    "revision": "783f71711de81b1fbef0",
-    "url": "/MillPointCalc/static/js/main.fb386e61.chunk.js"
+    "revision": "2f4a01937c2f0a7611e6",
+    "url": "/MillPointCalc/static/js/main.f347032b.chunk.js"
   },
   {
     "revision": "423d82b0d62f8f7e44ac",
